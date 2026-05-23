@@ -1,6 +1,6 @@
 cask "crumb" do
-  version "2.1.5"
-  sha256 "21f50aec3cb2e14486c9878d87860824abbf098956e7b72f575ee7da1102bf91"
+  version "2.1.6"
+  sha256 "4cd1f82be1b174d01f25538f2bbd73d49f9a5505aaa6d838c67564909c8d4a76"
 
   url "https://github.com/RogerDF30/crumb-updates/releases/download/v#{version}/Crumb-#{version}.dmg"
   name "Crumb"
